@@ -1,6 +1,6 @@
 # Spiking-neural-network
 
-SNN-3layer :
+SNN-3layer-1 :
 A 3-layer spiking neural network for image classification
 
 Simulation-v1 :
